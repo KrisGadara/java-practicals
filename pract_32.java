@@ -37,6 +37,8 @@ class SharedSum {
 
 public class pract_32 {
     public static void main(String[] args) {
+        
+        System.out.println("23DIT012 Kris gadara");         
         Scanner sc = new Scanner(System.in);
 
         // Get the number of inputs (N)

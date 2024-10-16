@@ -5,6 +5,7 @@ public class prac19 {
         square s =new square();
         s.print();
         s.print1();
+        System.out.println("23DIT012-Kris gadara");         
     }
     
 }

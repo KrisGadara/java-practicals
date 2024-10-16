@@ -14,6 +14,7 @@ public class prac25 {
         } catch (UserDefinedException e) {
             System.out.println("Caught an exception: " + e.getMessage());
         }
+        System.out.println("23DIT012 Kris gadara");   
     }
 
     public static void methodThatThrowsException() throws UserDefinedException {

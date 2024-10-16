@@ -1,5 +1,6 @@
 public class prac35 {
     public static void main(String[] args) {
+        System.out.println("23DIT012-Kris gadara"); 
         Thread firstThread = new Thread(() -> {
             System.out.println("FIRST thread is running.");
         }, "FIRST");

@@ -4,7 +4,7 @@ public class prac23 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        System.out.println("23DIT012 Kris gadara"); 
         try {
             System.out.print("Enter the first integer (x): ");
             int x = Integer.parseInt(scanner.nextLine());

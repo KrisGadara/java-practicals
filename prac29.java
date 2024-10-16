@@ -5,6 +5,8 @@ import java.io.IOException;
 public class prac29 {
 
     public static void main(String[] args) {
+        
+        System.out.println("23DIT012 Kris gadara");         
         if (args.length != 2) {
             System.out.println("Usage: java FileCopy <sourcefile> <destinationfile>");
             return;

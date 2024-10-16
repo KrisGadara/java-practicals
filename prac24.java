@@ -1,20 +1,9 @@
-class CustomException extends Exception {
-    public CustomException(String message) {
-        super(message);
-    }
-}
-
-public class prac24 {
-
-    public static void main(String[] args) {
-        try {
-            throwCustomException();
-        } catch (CustomException e) {
-            System.out.println("Caught an exception: " + e.getMessage());
-        }
-    }
-
-    public static void throwCustomException() throws CustomException {
-        throw new CustomException("This is a custom exception message.");
-    }
-}
+public class prac24 { 
+    public static void main(String[] args) {     
+            System.out.println("23DIT012 Kris gadara");   
+                  System.out.println("--------------------");         try {             throw new Exception("This is a custom exception");  
+        } catch (Exception e) { 
+            System.out.println("Caught Exception: " + e.getMessage()); 
+        } 
+    } 
+} 

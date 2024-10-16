@@ -12,6 +12,7 @@ public class prac30 {
 
     public static void main(String[] args) {
         // Read from console and write to file using BufferedReader and BufferedWriter
+        System.out.println("23DIT012 Kris gadara"); 
         try (BufferedReader consoleReader = new BufferedReader(new InputStreamReader(System.in));
              BufferedWriter fileWriter = new BufferedWriter(new FileWriter("console_output.txt"))) {
              

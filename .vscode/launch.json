@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HospitalManagementSystemGUI",
+            "request": "launch",
+            "mainClass": "HospitalManagementSystemGUI",
+            "projectName": "java-practicals_232a45d1"
+        },
+        {
+            "type": "java",
+            "name": "HospitalManagementSystem",
+            "request": "launch",
+            "mainClass": "HospitalManagementSystem",
+            "projectName": "java-practicals_232a45d1"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/app.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        }
+    ]
+}

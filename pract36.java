@@ -81,7 +81,10 @@ class Consumer implements Runnable {
 }
 
 public class pract36 {
+    
     public static void main(String[] args) {
+        System.out.println("23DIT012 Kris gadara"); 
+
         Buffer buffer = new Buffer(5);  // Create a buffer of size 5
 
         // Create and start producer and consumer threads

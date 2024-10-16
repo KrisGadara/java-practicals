@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\LENOVO GAMING\\Downloads\\ojdbc11.jar",
+        "c:\\Users\\LENOVO GAMING\\Downloads\\sqljdbc_12.8.1.0_enu\\sqljdbc_12.8\\enu\\jars\\mssql-jdbc-12.8.1.jre8.jar"
+    ]
+}
